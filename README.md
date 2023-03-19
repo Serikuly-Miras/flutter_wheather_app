@@ -2,4 +2,6 @@
 
 A new Flutter project.
 
-https://github.com/Serikuly-Miras/flutter_wheather_app/blob/master/recording/demo.mp4
+Demo:
+https://user-images.githubusercontent.com/71659835/226194839-9ca9f2ed-6619-4d16-8126-2a5523618bea.mp4
+
