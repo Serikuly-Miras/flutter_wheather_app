@@ -1,6 +1,6 @@
 # flutter_wheather_app
 
-A new Flutter project.
+Simple weather forecast applications using flutter.
 
 Demo:
 
