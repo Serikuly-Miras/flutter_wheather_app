@@ -3,5 +3,5 @@
 A new Flutter project.
 
 Demo:
-https://user-images.githubusercontent.com/71659835/226194839-9ca9f2ed-6619-4d16-8126-2a5523618bea.mp4
 
+https://user-images.githubusercontent.com/71659835/226195064-578a0d6c-8101-4d07-9b84-3cfb2ca30d95.mp4
